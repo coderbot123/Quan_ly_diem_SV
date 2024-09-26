@@ -1,0 +1,96 @@
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.exe
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.deps.json
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.runtimeconfig.json
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.dll
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.pdb
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.AssemblyInfo.cs
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.dll
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\refint\QuanLyDiemSinhVien.dll
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.pdb
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.genruntimeconfig.cache
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\ref\QuanLyDiemSinhVien.dll
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.csproj.CopyComplete
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmDiem.resources
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmHocPhan.resources
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmLop.resources
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmLopHocPhan.resources
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmNganh.resources
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmSinhVien.resources
+C:\Users\admin\source\repos\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmDangKyHocPhan.resources
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.exe
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.deps.json
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.runtimeconfig.json
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.dll
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.pdb
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.csproj.AssemblyReference.cache
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmDangKyHocPhan.resources
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmDiem.resources
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmHocPhan.resources
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmLop.resources
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmLopHocPhan.resources
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmNganh.resources
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmSinhVien.resources
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.GeneratedMSBuildEditorConfig.editorconfig
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.AssemblyInfoInputs.cache
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.AssemblyInfo.cs
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.csproj.CopyComplete
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.dll
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\refint\QuanLyDiemSinhVien.dll
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.pdb
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.genruntimeconfig.cache
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\ref\QuanLyDiemSinhVien.dll
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmLogin.resources
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmMain.resources
+E:\Đồ án 1\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.Properties.Resources.resources
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.exe
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.deps.json
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.runtimeconfig.json
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.dll
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\QuanLyDiemSinhVien.pdb
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.csproj.AssemblyReference.cache
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmDangKyHocPhan.resources
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmDiem.resources
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmHocPhan.resources
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmLogin.resources
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmLop.resources
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmLopHocPhan.resources
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmMain.resources
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmNganh.resources
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.frmSinhVien.resources
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.Properties.Resources.resources
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.GeneratedMSBuildEditorConfig.editorconfig
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.AssemblyInfoInputs.cache
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.AssemblyInfo.cs
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.csproj.CopyComplete
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.dll
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\refint\QuanLyDiemSinhVien.dll
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.pdb
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\QuanLyDiemSinhVien.genruntimeconfig.cache
+E:\Đồ án 1\Nhóm 6 - Quản lý điểm sinh viên\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\net6.0-windows\ref\QuanLyDiemSinhVien.dll
